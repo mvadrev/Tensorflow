@@ -1,3 +1,5 @@
+#author: https://medium.com/@curiousily/tensorflow-for-hackers-part-i-basics-2c46bc99c930
+
 import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
